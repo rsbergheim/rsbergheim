@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Next.js and GPT integrations
 - 💬 Ask me about scalable automations
 
+![rsbergheim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsbergheim&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true)
 
-![rsbergheim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsbergheim&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsbergheim&langs_count=15&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsbergheim&langs_count=10&theme=tokyonight&include_all_commits=true)
