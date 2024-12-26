@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about scalable automations
 
 
+![rsbergheim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsbergheim&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
 
-[![rsbergheim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsbergheim)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsbergheim)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsbergheim&langs_count=15&theme=tokyonight)
